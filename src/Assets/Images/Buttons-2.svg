@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.057" height="41.057" viewBox="0 0 49.057 41.057">
+  <g id="Buttons" transform="translate(-1601.216 -1445.592)" opacity="0.6">
+    <g id="Rectangle_22235" data-name="Rectangle 22235" transform="translate(1601.216 1445.592)" fill="none" stroke="#24242b" stroke-width="1">
+      <rect width="49.058" height="41.057" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="48.058" height="40.057" rx="7.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-facebook-messenger" data-name="Icon awesome-facebook-messenger" d="M9.11.563A8.241,8.241,0,0,0,.563,8.836a8.086,8.086,0,0,0,2.685,6.119c.287.258.228.408.277,2a.685.685,0,0,0,.959.6c1.82-.8,1.843-.865,2.151-.781,5.272,1.451,10.986-1.923,10.986-7.946A8.208,8.208,0,0,0,9.11.563Zm5.132,6.367L11.732,10.9a1.285,1.285,0,0,1-1.854.341l-2-1.495a.516.516,0,0,0-.619,0l-2.7,2.044a.405.405,0,0,1-.588-.539l2.51-3.974a1.285,1.285,0,0,1,1.854-.341l2,1.495a.516.516,0,0,0,.619,0l2.7-2.042a.4.4,0,0,1,.588.537Z" transform="translate(1616.653 1457.029)" fill="#24242b"/>
+  </g>
+</svg>

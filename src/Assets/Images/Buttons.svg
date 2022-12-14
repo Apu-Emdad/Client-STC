@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="149" height="41" viewBox="0 0 149 41">
+  <g id="Buttons" transform="translate(-1554.468 -1444.465)" opacity="0.6">
+    <g id="Rectangle_22235" data-name="Rectangle 22235" transform="translate(1554.468 1444.465)" fill="none" stroke="#24242b" stroke-width="1">
+      <rect width="149" height="41" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="148" height="40" rx="7.5" fill="none"/>
+    </g>
+    <text id="Copy_Link" data-name="Copy Link" transform="translate(1671.468 1470.465)" fill="#24242b" font-size="14" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="-61" y="0">Copy Link</tspan></text>
+    <g id="Icon_feather-copy" data-name="Icon feather-copy" transform="translate(1583.468 1454.465)">
+      <path id="Path_46132" data-name="Path 46132" d="M15,13.5h6.75a1.5,1.5,0,0,1,1.5,1.5v6.75a1.5,1.5,0,0,1-1.5,1.5H15a1.5,1.5,0,0,1-1.5-1.5V15A1.5,1.5,0,0,1,15,13.5Z" transform="translate(-5.25 -5.25)" fill="none" stroke="#24242b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_46133" data-name="Path 46133" d="M5.25,12.75H4.5A1.5,1.5,0,0,1,3,11.25V4.5A1.5,1.5,0,0,1,4.5,3h6.75a1.5,1.5,0,0,1,1.5,1.5v.75" fill="none" stroke="#24242b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
