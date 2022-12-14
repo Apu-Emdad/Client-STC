@@ -21,7 +21,7 @@ const BlogContent = () => {
           <p>Elimination Running</p>
         </HashLink>
         <HashLink to="/blog#title">
-          <p>Consclusion</p>
+          <p>Conclusion</p>
         </HashLink>
       </div>
 

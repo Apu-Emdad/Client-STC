@@ -3,5 +3,5 @@
 <ul> 
     <li>The page is 100% responsive for both pc and mobile </li>
     <li>Scrolling animation is provided from sideba. </li>
-    <li><b>Technologies:</b>React, React-Router-Dom, React-Bootstrap, React-Hashlink </li>
+    <li><b>Technologies:</b> React, React-Router-Dom, React-Bootstrap, React-Hashlink </li>
 </ul>
