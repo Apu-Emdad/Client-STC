@@ -28,6 +28,7 @@ function App() {
         <Nav routes={routes} />
 
         <Routes>
+          <Route path="/*" element={<Blog />} />
           <Route path="/Blog" element={<Blog />} />
         </Routes>
       </div>
